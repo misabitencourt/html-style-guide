@@ -1,6 +1,6 @@
-# html-style-guide
-A very simple HTML style guide
+# Guia de estilo HTML
 
+Um guia de estilo simples para HTML
 
 ## Formato
 
